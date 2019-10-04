@@ -1,0 +1,8 @@
+Django==2.2.5
+djangorestframework==3.10.3
+mysql-connector-python==8.0.17
+Celery==4.3.0
+simple-salesforce==0.74.3
+requests==2.22.0
+gunicorn==19.9.0
+flower==0.9.3

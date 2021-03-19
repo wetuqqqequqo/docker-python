@@ -1,5 +1,5 @@
 Django==2.2.5
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 mysql-connector-python==8.0.17
 Celery==4.3.0
 simple-salesforce==0.74.3
